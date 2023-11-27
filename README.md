@@ -3,7 +3,7 @@
 Developed my first Convolutional Neural Network image classifier. Initially, I built a neural network from scratch using skeleton code from Andrej Karpathy's micrograd project, before implementing the same neural network using the PyTorch library. Here are the accuracies of my model implemented in PyTorch when tested on the Iris and MNIST datasets:
 
 ## Model Accuracy
-| Model (Dataset) | Score |
+| Dataset | Score |
 | :---: | :---: |
-| PyTorch (Iris) | 0.9667 |
-| PyTorch (MNIST) | 0.9801 |
+| Iris | 0.9667 |
+| MNIST | 0.9801 |

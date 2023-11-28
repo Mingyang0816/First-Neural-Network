@@ -6,4 +6,4 @@ Developed my first Feedforward Neural Network image classifier. Initially, I bui
 | Dataset | Score |
 | :---: | :---: |
 | Iris | 0.9667 |
-| MNIST | 0.9801 |
+| MNIST | 0.9507 |
